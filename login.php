@@ -1,8 +1,8 @@
 <?php
 	require('./sesFunc.php');
 	
-	define('ID', 'admin');
-	define('PASS', 'fa4ae9a74dd716acc7f4b62fd2e39dac1b24c019');
+	define('ID', '');
+	define('PASS', '');
 	
 	seStart();
 	
